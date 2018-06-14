@@ -1,0 +1,15 @@
+{
+  "name":         "GoogleSearch",
+  "version":      "0.1",
+  "description":  "Object representing one page of search results.",
+  "author":       "",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["GoogleSearch"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": ["https://github.com/IoLanguage/Socket.git", "https://github.com/IoLanguage/SGML.git"]
+  }
+}
